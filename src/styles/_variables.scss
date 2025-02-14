@@ -82,6 +82,14 @@ $loader-background-color: #111111;
   --theme-scrollbar-thumb: #32343a;
   --theme-chart-borders: #e7f6e3;
 
+  --theme-form-input-group: #232526;
+  --theme-form-input-group-text: #eee;
+  --theme-form-input-group-focus: #101010;
+
+  --theme-form-input-background: #101010;
+  --theme-form-input-background-focus: #101010;
+  --theme-form-input-text: #c9a9ff;
+
   --theme-danger: #730808;
 }
 
@@ -104,7 +112,7 @@ $loader-background-color: #111111;
   --theme-soft-2: #ebebeb;
   --theme-soft-3: #e6e6e6;
 
-  --theme-dark: #cfcfcf;
+  --theme-dark: #ededed;
   --theme-dark-opacity: rgba(207, 207, 207, 0.2);
   --theme-muted: #7c7c7c;
   --theme-white: #ffffff;
@@ -130,6 +138,14 @@ $loader-background-color: #111111;
   --theme-scrollbar-track: #e0e0e0;
   --theme-scrollbar-thumb: #7a48b5;
   --theme-chart-borders: #dcdcdc;
+
+  --theme-form-input-group: #9b6fe0;
+  --theme-form-input-group-text: #101010;
+  --theme-form-input-group-focus: #eee;
+
+  --theme-form-input-background: #eee;
+  --theme-form-input-background-focus: #fbfbfb;
+  --theme-form-input-text: #4a4a4a;
 
   --theme-danger: #fad6d6;
 }
