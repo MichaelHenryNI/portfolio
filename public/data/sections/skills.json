@@ -1,0 +1,465 @@
+{
+  "locales": {
+    "en": {
+      "title": "Skills",
+      "title_long_prefix": "Explore",
+      "title_long": "My **Skill Set**"
+    },
+
+    "es": {
+      "title": "Habilidades",
+      "title_long_prefix": "Explora",
+      "title_long": "Mis **Habilidades**"
+    },
+
+    "fr": {
+      "title": "Capacités",
+      "title_long_prefix": "Explorez",
+      "title_long": "Mes **Compétences**"
+    },
+
+    "ko": {
+      "title": "스킬",
+      "title_long_prefix": "이것은 내",
+      "title_long": "**스킬**입니다"
+    }
+  },
+
+  "articles": [
+    {
+      "id": "capabilities",
+      "component": "ArticleCards",
+      "config": {},
+      "locales": {},
+
+      "items": [
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-table-columns",
+            "faColors": { "bg": null, "fill": null }
+          },
+          "locales": {
+            "en": {
+              "title": "**Web** Design & Development",
+              "text": "Transforming ideas into engaging online experiences!"
+            },
+            "es": {
+              "title": "Diseño y Desarrollo **Web**",
+              "text": "¡Transformando ideas en experiencias en línea atractivas!"
+            },
+            "fr": {
+              "title": "Conception et Développement **Web**",
+              "text": "Transformant les idées en expériences en ligne engageantes !"
+            },
+            "ko": {
+              "title": "**웹** 디자인 & 개발",
+              "text": "아이디어를 매력적인 온라인 경험으로 변화시킵니다!"
+            }
+          }
+        },
+
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-cloud",
+            "faColors": { "bg": null, "fill": null }
+          },
+          "locales": {
+            "en": {
+              "title": "**Cloud** Computing",
+              "text": "Experience with cloud-based services and infrastructure (AWS, Azure)!"
+            },
+            "es": {
+              "title": "Computación en la **Nube**",
+              "text": "Experiencia con servicios e infraestructura basados en la nube (AWS, Azure)!"
+            },
+            "fr": {
+              "title": "Informatique **Nuageuse**",
+              "text": "Expérience avec les services et l'infrastructure basés sur le cloud (AWS, Azure) !"
+            },
+            "ko": {
+              "title": "**클라우드** 컴퓨팅",
+              "text": "클라우드 기반 서비스 및 인프라 경험 (AWS, Azure)!"
+            }
+          }
+        },
+
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-database",
+            "faColors": { "bg": null, "fill": null }
+          },
+          "locales": {
+            "en": {
+              "title": "**Database** Management",
+              "text": "I design, implement, and maintain efficient and reliable databases to support business operations!"
+            },
+            "es": {
+              "title": "Gestión de **Bases de Datos**",
+              "text": "Diseño, implemento y mantengo bases de datos eficientes y confiables para respaldar las operaciones comerciales."
+            },
+            "fr": {
+              "title": "Gestion de **Bases de Données**",
+              "text": "Je conçois, mets en œuvre et maintiens des bases de données efficaces et fiables pour soutenir les opérations commerciales."
+            },
+            "ko": {
+              "title": "**데이터베이스** 관리",
+              "text": "비즈니스 운영을 지원하기 위해 효율적이고 안정적인 데이터베이스를 설계, 구현 및 유지 관리합니다!"
+            }
+          }
+        },
+
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-mobile-screen-button",
+            "faColors": { "bg": null, "fill": null }
+          },
+          "locales": {
+            "en": {
+              "title": "**Responsive** Design",
+              "text": "I create websites that adapt seamlessly to any device, providing an optimal user experience across desktops, tablets, and smartphones!"
+            },
+            "es": {
+              "title": "Diseño **Responsivo**",
+              "text": "Creo sitios web que se adaptan perfectamente a cualquier dispositivo, brindando una experiencia de usuario óptima en computadoras de escritorio, tablets y teléfonos inteligentes."
+            },
+            "fr": {
+              "title": "Conception **Réactive**",
+              "text": "Je crée des sites web qui s'adaptent de manière transparente à tous les appareils, offrant une expérience utilisateur optimale sur les ordinateurs de bureau, les tablettes et les smartphones !"
+            },
+            "ko": {
+              "title": "**반응형** 디자인",
+              "text": "데스크톱, 태블릿, 스마트폰 등 모든 기기에 완벽하게 적응되는 웹사이트를 제작하여 최적의 사용자 경험을 제공합니다!"
+            }
+          }
+        },
+
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-window-restore",
+            "faColors": { "bg": null, "fill": null }
+          },
+          "locales": {
+            "en": {
+              "title": "REST **APIs**",
+              "text": "Experience in designing and developing REST APIs."
+            },
+            "es": {
+              "title": "APIs **REST**",
+              "text": "Experiencia en el diseño y desarrollo de APIs REST."
+            },
+            "fr": {
+              "title": "APIs **REST**",
+              "text": "Expérience dans la conception et le développement d'APIs REST."
+            },
+            "ko": {
+              "title": "REST **API**",
+              "text": "REST API 설계 및 개발 경험."
+            }
+          }
+        },
+
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-lock",
+            "faColors": { "bg": null, "fill": null }
+          },
+          "locales": {
+            "en": {
+              "title": "Information **Security**",
+              "text": "I prioritize information security in all development practices to protect sensitive data and systems."
+            },
+            "es": {
+              "title": "**Seguridad** de la Información",
+              "text": "Priorizo la seguridad de la información en todas las prácticas de desarrollo para proteger los datos y sistemas sensibles."
+            },
+            "fr": {
+              "title": "**Sécurité** de l'Information",
+              "text": "Je priorise la sécurité de l'information dans toutes les pratiques de développement pour protéger les données et les systèmes sensibles."
+            },
+            "ko": {
+              "title": "정보 **보안**",
+              "text": "민감한 데이터와 시스템을 보호하기 위해 모든 개발 과정에서 정보 보안을 중요하게 생각합니다."
+            }
+          }
+        }
+      ]
+    },
+
+    {
+      "id": "front_end_programming",
+      "component": "ArticleList",
+      "config": {},
+      "locales": {
+        "en": { "title": "Frontend" }
+      },
+
+      "items": [
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-html5",
+            "faColors": { "bg": "#E34F26", "fill": "#EEE" }
+          },
+          "value": 100,
+          "dates": {
+            "start": "10/01/2018"
+          },
+          "locales": {
+            "en": {
+              "title": "HTML5",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-css3",
+            "faColors": { "bg": "#1572B6", "fill": "#EEE" }
+          },
+          "value": 85,
+          "dates": {
+            "start": "10/01/2018"
+          },
+          "locales": {
+            "en": {
+              "title": "CSS3",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-js",
+            "faColors": { "bg": "#F7DF1E", "fill": "#111" }
+          },
+          "value": 90,
+          "dates": {
+            "start": "10/01/2018"
+          },
+          "locales": {
+            "en": {
+              "title": "JavaScript ES6+",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-react",
+            "faColors": { "bg": "#61DAFB", "fill": "#111" }
+          },
+          "value": 95,
+          "dates": {
+            "start": "02/01/2019"
+          },
+          "locales": {
+            "en": {
+              "title": "React",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-bootstrap",
+            "faColors": { "bg": "#7952B3", "fill": "#EEE" }
+          },
+          "value": 90,
+          "dates": {
+            "start": "10/01/2018"
+          },
+          "locales": {
+            "en": {
+              "title": "Bootstrap",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": "images/pictures/mui.png",
+            "fa": "",
+            "faColors": { "bg": "", "fill": "" }
+          },
+          "value": 90,
+          "dates": {
+            "start": "03/01/2022"
+          },
+          "locales": {
+            "en": {
+              "title": "Material-UI",
+              "info": null
+            }
+          }
+        }
+      ]
+    },
+
+    {
+      "id": "backend_programming",
+      "component": "ArticleList",
+      "config": {},
+      "locales": {
+        "en": { "title": "Backend" }
+      },
+
+      "items": [
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-database",
+            "faColors": { "bg": "#4479A1", "fill": "#EEE" }
+          },
+          "value": 70,
+          "dates": {
+            "start": "06/01/2016"
+          },
+          "locales": {
+            "en": {
+              "title": "MySQL",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-php",
+            "faColors": { "bg": "#FFD700", "fill": "#111" }
+          },
+          "value": 50,
+          "dates": {
+            "start": "03/01/2022"
+          },
+          "locales": {
+            "en": {
+              "title": "PHP 8.0+",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": "images/pictures/c-sharp.png",
+            "fa": "fa-brands fa-git",
+            "faColors": { "bg": "", "fill": "#EEE" }
+          },
+          "value": 70,
+          "dates": {
+            "start": "06/01/2018"
+          },
+          "locales": {
+            "en": {
+              "title": "C#",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-git",
+            "faColors": { "bg": "#F05032", "fill": "#111" }
+          },
+          "value": 95,
+          "dates": {
+            "start": "10/01/2018"
+          },
+          "locales": {
+            "en": {
+              "title": "Git",
+              "info": null
+            }
+          }
+        }
+      ]
+    },
+
+    {
+      "id": "languages",
+      "component": "ArticleList",
+      "config": {},
+      "locales": {
+        "en": { "title": "Languages" },
+        "es": { "title": "Idiomas" },
+        "fr": { "title": "Langues" },
+        "ko": { "title": "언어" }
+      },
+
+      "items": [
+        {
+          "icon": {
+            "img": "images/flags/en_gb.png",
+            "fa": null,
+            "faColors": { "bg": null, "fill": null }
+          },
+          "value": null,
+          "dates": { "start": null },
+          "locales": {
+            "en": {
+              "title": "English",
+              "info": "Native speaker with excellent communication and writing skills.",
+              "tags": ["Native"]
+            },
+            "es": {
+              "title": "Inglés",
+              "info": "Hablante nativo con excelentes habilidades de comunicación y escritura.",
+              "tags": ["Nativo"]
+            },
+            "fr": {
+              "title": "Anglais",
+              "info": "Locuteur natif avec d'excellentes compétences en communication et en rédaction.",
+              "tags": ["Natif"]
+            },
+            "ko": {
+              "title": "영어",
+              "info": "모국어 구사자로, 뛰어난 의사소통 및 작문 능력을 갖추고 있습니다.",
+              "tags": ["모국어"]
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": "images/flags/es.png",
+            "fa": null,
+            "faColors": { "bg": null, "fill": null }
+          },
+          "value": null,
+          "dates": { "start": null },
+          "locales": {
+            "en": {
+              "title": "Spanish",
+              "info": "Currently studying and learning Spanish.",
+              "tags": ["Beginner"]
+            },
+            "es": {
+              "title": "Español",
+              "info": "Actualmente estudio y aprendo español.",
+              "tags": ["Principiante"]
+            },
+            "fr": {
+              "title": "Espagnol",
+              "info": "J'étudie et j'apprends l'espagnol actuellement.",
+              "tags": ["Débutant"]
+            },
+            "ko": {
+              "title": "스페인어",
+              "info": "현재 스페인어를 공부하고 배우고 있습니다.",
+              "tags": ["초급"]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "locales": {
+    "en": {
+      "title": "Welcome!",
+      "title_menu": "About me",
+      "title_long_prefix": "Hello...",
+      "title_long": "I'm **Michael Henry!**"
+    },
+    "es": {
+      "title": "¡Bienvenido!",
+      "title_menu": "Sobre mí",
+      "title_long_prefix": "Hola...",
+      "title_long": "Soy **Michael Henry!**"
+    },
+    "fr": {
+      "title": "Bienvenue!",
+      "title_menu": "À propos",
+      "title_long_prefix": "Salut...",
+      "title_long": "Je suis **Michael Henry!**"
+    },
+    "ko": {
+      "title": "환영합니다!",
+      "title_menu": "소개",
+      "title_long_prefix": "안녕하세요...",
+      "title_long": "저는 **Michael Henry**입니다!"
+    }
+  },
+
+  "articles": [
+    {
+      "id": "contact_list",
+      "component": "ArticleGrid",
+      "config": {
+        "ignorePaddingTop": true,
+        "format": "inline"
+      },
+      "locales": {
+        "en": {},
+        "es": {},
+        "fr": {},
+        "ko": {}
+      },
+      "items": [
+        {
+          "value": "Kilrea – N. Ireland",
+          "links": [{ "href": null }],
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-map-location-dot",
+            "faColors": { "bg": null, "fill": null }
+          }
+        },
+        {
+          "value": "michael10henry@gmail.com",
+          "links": [{ "href": "mailto:michael10henry@gmail.com" }],
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-envelope",
+            "faColors": { "bg": null, "fill": null }
+          }
+        },
+        {
+          "value": "linktr.ee/Michael_Henry",
+          "links": [{ "href": "https://linktr.ee/Michael_Henry" }],
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-link",
+            "faColors": { "bg": null, "fill": null }
+          }
+        }
+      ]
+    },
+
+    {
+      "id": "short_description",
+      "component": "ArticleInfoBlock",
+      "config": {},
+      "locales": {
+        "en": { "title": "A little bit **about me...**" },
+        "es": { "title": "Un poco **sobre mí...**" },
+        "fr": { "title": "Un peu **à propos de moi...**" },
+        "ko": { "title": "저에 **대해 조금**..." }
+      },
+      "items": [
+        {
+          "icon": {
+            "img": "images/pictures/computer.png",
+            "fa": null,
+            "faColors": { "bg": null, "fill": null }
+          },
+          "locales": {
+            "en": {
+              "text": "<p>I am a passionate Full Stack Web Developer based in Northern Ireland, with over 9 years of experience building high-quality software and web applications. My expertise spans a diverse range of front-end and back-end technologies, responsive frameworks, databases, and industry best practices.</p><p>Driven by a commitment to efficiency and innovation, I strive to create seamless, user-friendly digital experiences. My goal is to continuously refine my skills, stay ahead of emerging technologies, and contribute meaningfully to any organisation I work with.</p><p>I believe in lifelong learning and collaboration, always eager to grow alongside experienced developers while sharing my own insights. Whether tackling complex challenges or optimising performance, I approach every project with dedication, humility, and a relentless drive to improve.</p>"
+            },
+            "es": {
+              "text": "<p>Soy un desarrollador Full Stack apasionado con sede en Irlanda del Norte, con más de 9 años de experiencia en la creación de software y aplicaciones web de alta calidad. Mi experiencia abarca una amplia gama de tecnologías front-end y back-end, frameworks responsivos, bases de datos y las mejores prácticas de la industria.</p><p>Impulsado por un compromiso con la eficiencia y la innovación, me esfuerzo por crear experiencias digitales fluidas y fáciles de usar. Mi objetivo es refinar continuamente mis habilidades, mantenerme a la vanguardia de las tecnologías emergentes y contribuir de manera significativa a cualquier organización con la que trabaje.</p><p>Creo en el aprendizaje permanente y la colaboración, siempre dispuesto a crecer junto a desarrolladores experimentados mientras comparto mis propios conocimientos. Ya sea abordando desafíos complejos u optimizando el rendimiento, abordo cada proyecto con dedicación, humildad y un impulso implacable para mejorar.</p>"
+            },
+            "fr": {
+              "text": "<p>Je suis un développeur web Full Stack passionné, basé en Irlande du Nord, avec plus de 9 ans d'expérience dans la création de logiciels et d'applications web de haute qualité. Mon expertise couvre un large éventail de technologies front-end et back-end, de frameworks réactifs, de bases de données et de meilleures pratiques de l'industrie.</p><p>Motivé par un engagement envers l'efficacité et l'innovation, je m'efforce de créer des expériences numériques transparentes et conviviales. Mon objectif est d'affiner continuellement mes compétences, de rester à la pointe des technologies émergentes et de contribuer de manière significative à toute organisation avec laquelle je travaille.</p><p>Je crois en l'apprentissage tout au long de la vie et à la collaboration, toujours désireux de grandir aux côtés de développeurs expérimentés tout en partageant mes propres idées. Qu'il s'agisse de relever des défis complexes ou d'optimiser les performances, j'aborde chaque projet avec dévouement, humilité et une volonté implacable de m'améliorer.</p>"
+            },
+            "ko": {
+              "text": "<p>저는 북아일랜드에 거주하는 열정적인 풀스택 웹 개발자로, 9년 이상의 고품질 소프트웨어 및 웹 애플리케이션 개발 경험을 가지고 있습니다. 제 전문 지식은 다양한 프론트엔드 및 백엔드 기술, 반응형 프레임워크, 데이터베이스 및 업계 최고의 사례를 포괄합니다.</p><p>효율성과 혁신에 대한 약속에 이끌려 저는 원활하고 사용자 친화적인 디지털 경험을 만드는 데 노력합니다. 제 목표는 끊임없이 기술을 연마하고, 새로운 기술에 앞서 나가며, 제가 함께 일하는 모든 조직에 의미 있는 기여를 하는 것입니다.</p><p>저는 평생 학습과 협업을 믿으며, 항상 숙련된 개발자들과 함께 성장하면서 제 자신의 통찰력을 공유하고 싶어합니다. 복잡한 문제에 대처하든 성능을 최적화하든, 저는 헌신, 겸손, 그리고 끊임없이 개선하려는 의지로 모든 프로젝트에 접근합니다.</p>"
+            }
+          }
+        }
+      ]
+    },
+
+    {
+      "id": "testimonials",
+      "component": "ArticleTestimonials",
+      "config": {},
+      "locales": {
+        "en": { "title": "Client **testimonials**" },
+        "es": { "title": "Testimonios de **clientes**" },
+        "fr": { "title": "Témoignages de **clients**" },
+        "ko": { "title": "**고객** 추천사" }
+      },
+      "items": [
+        {
+          "value": "Robbie Nibblock",
+          "links": [{ "href": "https://linkedin.com" }],
+          "icon": {
+            "img": "images/pictures/man-1.png",
+            "fa": "fa-solid fa-user",
+            "faColors": null
+          },
+          "locales": {
+            "en": {
+              "info": "Director at <b>Seatruck</b>",
+              "text": "Michael has been a key part of our digital journey, particularly in designing our customer-facing systems where good UI and UX are essential. I would have no hesitation in recommending his services."
+            },
+            "es": {
+              "info": "Director en <b>Seatruck</b>",
+              "text": "Michael ha sido una parte fundamental de nuestro viaje digital, particularmente en el diseño de nuestros sistemas orientados al cliente, donde una buena interfaz de usuario y experiencia de usuario son esenciales. No dudaría en recomendar sus servicios."
+            },
+            "fr": {
+              "info": "Directeur chez <b>Seatruck</b>",
+              "text": "Michael a été un élément clé de notre transformation digitale, en particulier dans la conception de nos systèmes orientés client où une bonne interface et expérience utilisateur sont essentielles. Je n'hésiterais pas à recommander ses services."
+            },
+            "ko": {
+              "info": "<b>Seatruck</b> 이사",
+              "text": "Michael은 저희의 디지털 여정, 특히 좋은 UI/UX가 필수적인 고객 대면 시스템 설계에 핵심적인 역할을 해왔습니다. 그의 서비스를 추천하는 데 주저하지 않을 것입니다."
+            }
+          }
+        },
+        {
+          "value": "Karl Scullion",
+          "links": [{ "href": "https://github.com" }],
+          "icon": {
+            "img": "images/pictures/man-2.png",
+            "fa": null,
+            "faColors": { "bg": null, "fill": null }
+          },
+          "locales": {
+            "en": {
+              "info": "CEO at <b>Museco</b>",
+              "text": "Michael has helped us tremendously with the creative design of our projects. He was able to come up with creative solutions to help our client achieve their goals. I cannot recommend him highly enough!"
+            },
+            "es": {
+              "info": "CEO en <b>Museco</b>",
+              "text": "Michael nos ha ayudado enormemente con el diseño creativo de nuestros proyectos. Fue capaz de encontrar soluciones creativas para ayudar a nuestro cliente a lograr sus objetivos. ¡No puedo recomendarlo lo suficiente!"
+            },
+            "fr": {
+              "info": "PDG de <b>Museco</b>",
+              "text": "Michael nous a énormément aidés avec la conception créative de nos projets. Il a été capable de trouver des solutions créatives pour aider notre client à atteindre ses objectifs. Je ne peux que le recommander vivement !"
+            },
+            "ko": {
+              "info": "<b>Museco</b> CEO",
+              "text": "Michael은 저희 프로젝트의 창의적인 디자인에 엄청난 도움을 주었습니다. 그는 고객이 목표를 달성하도록 돕기 위해 창의적인 솔루션을 제시할 수 있었습니다. 그를 강력히 추천합니다!"
+            }
+          }
+        }
+      ]
+    },
+
+    {
+      "id": "interests",
+      "component": "ArticleGrid",
+      "config": {
+        "format": "grid"
+      },
+      "locales": {
+        "en": { "title": "Personal **interests**" },
+        "es": { "title": "Intereses **personales**" },
+        "fr": { "title": "Intérêts **personnels**" },
+        "ko": { "title": "개인 **관심사**" }
+      },
+      "items": [
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-futbol",
+            "faColors": null
+          },
+          "value": null,
+          "locales": {
+            "en": {
+              "title": "Football",
+              "info": "Playing & watching football is my biggest passion outside of work. Huge Manchester United fan."
+            },
+            "es": {
+              "title": "Fútbol",
+              "info": "Jugar y ver fútbol es mi mayor pasión fuera del trabajo. ¡Soy un gran fan del Manchester United!"
+            },
+            "fr": {
+              "title": "Football",
+              "info": "Jouer et regarder le football est ma plus grande passion en dehors du travail.  Je suis un grand fan de Manchester United !"
+            },
+            "ko": {
+              "title": "축구",
+              "info": "축구를 하고 보는 것은 제게 일 외에 가장 큰 열정입니다. 맨체스터 유나이티드의 열렬한 팬입니다!"
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-person-chalkboard",
+            "faColors": null
+          },
+          "value": null,
+          "locales": {
+            "en": {
+              "title": "Coaching",
+              "info": "Training the senior/youth teams for my local football club with a focus on becoming a manager down the line."
+            },
+            "es": {
+              "title": "Entrenamiento",
+              "info": "Entreno a los equipos senior/juveniles de mi club de fútbol local con el objetivo de convertirme en entrenador en el futuro."
+            },
+            "fr": {
+              "title": "Entraînement",
+              "info": "J'entraîne les équipes seniors/jeunes de mon club de football local dans le but de devenir entraîneur plus tard."
+            },
+            "ko": {
+              "title": "코칭",
+              "info": "지역 축구 클럽의 시니어/유스 팀을 훈련시키면서 장차 감독이 되는 것을 목표로 하고 있습니다."
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-mobile-screen",
+            "faColors": null
+          },
+          "value": null,
+          "locales": {
+            "en": {
+              "title": "Social Media Management",
+              "info": "Growing social media presence and engaging with followers."
+            },
+            "es": {
+              "title": "Gestión de redes sociales",
+              "info": "Aumentar la presencia en las redes sociales e interactuar con los seguidores."
+            },
+            "fr": {
+              "title": "Gestion des réseaux sociaux",
+              "info": "Développer la présence sur les réseaux sociaux et interagir avec les followers."
+            },
+            "ko": {
+              "title": "소셜 미디어 관리",
+              "info": "소셜 미디어 입지를 키우고 팔로워들과 소통하기."
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-wand-magic-sparkles",
+            "faColors": null
+          },
+          "value": null,
+          "locales": {
+            "en": {
+              "title": "Content Creation",
+              "info": "Crafting unique and captivating content that resonates with my audience on social media platforms."
+            },
+            "es": {
+              "title": "Creación de contenido",
+              "info": "Crear contenido único y cautivador que resuene con mi audiencia en las plataformas de redes sociales."
+            },
+            "fr": {
+              "title": "Création de contenu",
+              "info": "Créer un contenu unique et captivant qui trouve un écho auprès de mon public sur les plateformes de médias sociaux."
+            },
+            "ko": {
+              "title": "콘텐츠 제작",
+              "info": "소셜 미디어 플랫폼에서 제 시청자들에게 공감되는 독특하고 매혹적인 콘텐츠를 제작합니다."
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-dumbbell",
+            "faColors": null
+          },
+          "value": null,
+          "locales": {
+            "en": {
+              "title": "Gym",
+              "info": "Building strength, improving fitness, and pushing my limits for a healthier, stronger version of myself."
+            },
+            "es": {
+              "title": "Gimnasio",
+              "info": "Desarrollar fuerza, mejorar el estado físico y superar mis límites para una versión más sana y fuerte de mí mismo."
+            },
+            "fr": {
+              "title": "Salle de sport",
+              "info": "Gagner en force, améliorer sa condition physique et repousser ses limites pour une version plus saine et plus forte de moi-même."
+            },
+            "ko": {
+              "title": "헬스장",
+              "info": "근력을 키우고, 체력을 향상시키고, 더 건강하고 강한 제 자신을 위해 한계를 뛰어넘습니다."
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-pencil-alt",
+            "faColors": null
+          },
+          "value": null,
+          "locales": {
+            "en": {
+              "title": "UX Design",
+              "info": "Studying user experience principles."
+            },
+            "es": {
+              "title": "Diseño UX",
+              "info": "Estudiando los principios de la experiencia del usuario."
+            },
+            "fr": {
+              "title": "Conception UX",
+              "info": "Étudier les principes de l'expérience utilisateur."
+            },
+            "ko": {
+              "title": "UX 디자인",
+              "info": "사용자 경험 원칙을 공부하기."
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-house",
+            "faColors": null
+          },
+          "value": null,
+          "locales": {
+            "en": {
+              "title": "Self Builder",
+              "info": "My wife and I built our own forever home."
+            },
+            "es": {
+              "title": "Autoconstructor",
+              "info": "Mi esposa y yo construimos nuestro hogar para siempre."
+            },
+            "fr": {
+              "title": "Auto-constructeur",
+              "info": "Ma femme et moi avons construit notre propre maison pour toujours."
+            },
+            "ko": {
+              "title": "자가 건축",
+              "info": "아내와 저는 우리 집을 직접 지었습니다."
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-robot",
+            "faColors": null
+          },
+          "value": null,
+          "locales": {
+            "en": {
+              "title": "Tech Geek",
+              "info": "Love experimenting with new tech, staying updated on trends."
+            },
+            "es": {
+              "title": "Aficionado a la tecnología",
+              "info": "Me encanta experimentar con nuevas tecnologías y mantenerme actualizado sobre las tendencias."
+            },
+            "fr": {
+              "title": "Passionné de technologie",
+              "info": "J'adore expérimenter avec les nouvelles technologies et me tenir au courant des tendances."
+            },
+            "ko": {
+              "title": "테크 geek",
+              "info": "새로운 기술을 실험하고 트렌드에 대한 최신 정보를 얻는 것을 좋아합니다."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
