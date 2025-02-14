@@ -1,0 +1,114 @@
+{
+  "locales": {
+    "en": {
+      "title": "Contact",
+      "title_long_prefix": "Don't hesitate to",
+      "title_long": "**Contact** Me"
+    },
+
+    "es": {
+      "title": "Contacto",
+      "title_long_prefix": "No dudes en",
+      "title_long": "**Contácta**me"
+    },
+
+    "fr": {
+      "title": "Contact",
+      "title_long_prefix": "N'hésitez pas à",
+      "title_long": "Me **Contacter**"
+    },
+
+    "ko": {
+      "title": "연락처",
+      "title_long_prefix": "주저하지 말고",
+      "title_long": "**연락** 주세요"
+    }
+  },
+
+  "articles": [
+    {
+      "id": "contact_form",
+      "component": "ArticleContactForm",
+      "config": {},
+      "locales": {
+        "en": { "title": "Send me a **message**" },
+        "es": { "title": "Envíame un **mensaje**" },
+        "fr": { "title": "Envoyez-moi un **message**" },
+        "ko": { "title": "**메시지를** 보내주세요" }
+      },
+
+      "items": null
+    },
+
+    {
+      "id": "contact_list",
+      "component": "ArticleGrid",
+      "config": {
+        "format": "grid"
+      },
+      "locales": {
+        "en": { "title": "Or if you **prefer**..." },
+        "es": { "title": "O si **prefieres**..." },
+        "fr": { "title": "Ou si vous **préférez**..." },
+        "ko": { "title": "또는 **원하시면**..." }
+      },
+
+      "items": [
+        {
+          "value": "michael10henry@gmail.com",
+          "links": [{ "href": "mailto:michael10henry@gmail.com" }],
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-envelope",
+            "faColors": { "bg": null, "fill": null }
+          },
+          "locales": {
+            "en": { "title": "E-mail" },
+            "ko": { "title": "이메일" }
+          }
+        },
+
+        {
+          "value": "@michaelhenry",
+          "links": [{ "href": "https://www.linkedin.com/in/michaelhenryni/" }],
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-linkedin",
+            "faColors": { "bg": null, "fill": null }
+          },
+          "locales": {
+            "en": { "title": "Linkedin" }
+          }
+        },
+
+        {
+          "value": "Michael Henry",
+          "links": [
+            { "href": "https://www.facebook.com/michael.henry.7792052" }
+          ],
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-facebook",
+            "faColors": { "bg": null, "fill": null }
+          },
+          "locales": {
+            "en": { "title": "Facebook" }
+          }
+        },
+
+        {
+          "value": "@michael_10_henry",
+          "links": [{ "href": "https://www.instagram.com/michael_10_henry/" }],
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-instagram",
+            "faColors": { "bg": null, "fill": null }
+          },
+          "locales": {
+            "en": { "title": "Instagram" }
+          }
+        }
+      ]
+    }
+  ]
+}
