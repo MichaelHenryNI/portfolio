@@ -16,14 +16,12 @@ Key features:
 
 ## [Live Preview](https://michaelhenryni.github.io/portfolio/)
 
-Check out the live version of the template deployed **[here on GitHub Pages](https://michaelhenryni.github.io/portfolio/)**.
-
 ## Installation
 
 1. Clone the repo:
 
 ```
-git clone https://github.com/MichaelHenryNI/portfolio
+git clone https://github.com/MichaelHenryNI/portfolio.git
 ```
 
 2. Go to the root directory of the project and install all dependencies with npm:
