@@ -1,4 +1,4 @@
-# [React Portfolio](https://michaelhenryni.github.io/portfolio/) by Michael Henry
+# [React Portfolio](https://michaelhenryni.github.io/portfolio/) By Michael Henry
 
 A sleek, modern portfolio – built with **React** and **Bootstrap 5**.
 
@@ -14,16 +14,16 @@ Key features:
 - Uses **Vite** for packaging.
 - Emails with **EmailJS** - no backend needed!
 
-## [Live Preview](https://ryanbalieiro.github.io/react-portfolio-template/)
+## [Live Preview](https://michaelhenryni.github.io/portfolio/)
 
-Check out the live version of the template deployed **[here on GitHub Pages](https://ryanbalieiro.github.io/react-portfolio-template/)**.
+Check out the live version of the template deployed **[here on GitHub Pages](https://michaelhenryni.github.io/portfolio/)**.
 
 ## Installation
 
 1. Clone the repo:
 
 ```
-git clone https://github.com/ryanbalieiro/react-portfolio-template
+git clone https://github.com/MichaelHenryNI/portfolio
 ```
 
 2. Go to the root directory of the project and install all dependencies with npm:
