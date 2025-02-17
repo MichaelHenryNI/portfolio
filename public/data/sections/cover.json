@@ -61,10 +61,21 @@
         },
         {
           "value": "linktr.ee/Michael_Henry",
-          "links": [{ "href": "https://linktr.ee/Michael_Henry" }],
+          "links": [{ "href": "../" }],
           "icon": {
             "img": null,
             "fa": "fa-solid fa-link",
+            "faColors": { "bg": null, "fill": null }
+          }
+        },
+        {
+          "value": "Download CV",
+          "links": [
+            { "href": "/portfolio/MichaelHenryCV.pdf", "download": true }
+          ],
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-download",
             "faColors": { "bg": null, "fill": null }
           }
         }
@@ -119,7 +130,6 @@
       "items": [
         {
           "value": "Robbie Nibblock",
-          "links": [{ "href": "https://linkedin.com" }],
           "icon": {
             "img": "images/pictures/man-1.png",
             "fa": "fa-solid fa-user",
@@ -146,7 +156,6 @@
         },
         {
           "value": "Karl Scullion",
-          "links": [{ "href": "https://github.com" }],
           "icon": {
             "img": "images/pictures/man-2.png",
             "fa": null,
@@ -154,19 +163,19 @@
           },
           "locales": {
             "en": {
-              "info": "CEO at <b>Museco</b>",
+              "info": "Director at <b>Museco</b>",
               "text": "Michael has helped us tremendously with the creative design of our projects. He was able to come up with creative solutions to help our client achieve their goals. I cannot recommend him highly enough!"
             },
             "es": {
-              "info": "CEO en <b>Museco</b>",
-              "text": "Michael nos ha ayudado enormemente con el diseño creativo de nuestros proyectos. Fue capaz de encontrar soluciones creativas para ayudar a nuestro cliente a lograr sus objetivos. ¡No puedo recomendarlo lo suficiente!"
+              "info": "Director en <b>Museco</b>",
+              "text": "Michael nos ha ayudado enormemente con el diseño creativo de nuestros proyectos. Pudo idear soluciones creativas para ayudar a nuestro cliente a alcanzar sus objetivos. ¡No puedo recomendarlo lo suficiente!"
             },
             "fr": {
               "info": "PDG de <b>Museco</b>",
-              "text": "Michael nous a énormément aidés avec la conception créative de nos projets. Il a été capable de trouver des solutions créatives pour aider notre client à atteindre ses objectifs. Je ne peux que le recommander vivement !"
+              "text": "Michael nous a énormément aidés avec la conception créative de nos projets. Il a pu proposer des solutions créatives pour aider notre client à atteindre ses objectifs. Je ne peux que le recommander vivement !"
             },
             "ko": {
-              "info": "<b>Museco</b> CEO",
+              "info": "<b>Museco</b> Director",
               "text": "Michael은 저희 프로젝트의 창의적인 디자인에 엄청난 도움을 주었습니다. 그는 고객이 목표를 달성하도록 돕기 위해 창의적인 솔루션을 제시할 수 있었습니다. 그를 강력히 추천합니다!"
             }
           }
