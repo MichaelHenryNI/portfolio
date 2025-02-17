@@ -36,15 +36,6 @@ npm install
 npm run dev
 ```
 
-4. To temporarily deactivate the preload animation during theme adjustments, go to `public/data/settings.json` and modify the following field:
-
-```
-"preloader": {
-    "enabled": false,
-    (...)
-},
-```
-
 It's based on the **[React](https://reactjs.org/)** framework created by Jordan Walke, and the **[Bootstrap](https://getbootstrap.com/)** framework created by Mark Otto and Jacob Thorton.
 
 Additional frameworks and plugins used include:
