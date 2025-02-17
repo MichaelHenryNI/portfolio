@@ -61,7 +61,7 @@
         },
         {
           "value": "linktr.ee/Michael_Henry",
-          "links": [{ "href": "../" }],
+          "links": [{ "href": "https://linktr.ee/Michael_Henry" }],
           "icon": {
             "img": null,
             "fa": "fa-solid fa-link",

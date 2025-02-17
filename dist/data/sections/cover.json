@@ -67,6 +67,17 @@
             "fa": "fa-solid fa-link",
             "faColors": { "bg": null, "fill": null }
           }
+        },
+        {
+          "value": "Download CV",
+          "links": [
+            { "href": "/portfolio/MichaelHenryCV.pdf", "download": true }
+          ],
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-download",
+            "faColors": { "bg": null, "fill": null }
+          }
         }
       ]
     },
