@@ -11,7 +11,7 @@ function InlineList({ items, textClass }) {
 
   textClass = textClass || `text-4`;
   if (shortenedMode) {
-    items = items.slice(0, 2);
+    items = items.slice(0, 4);
   }
 
   return (
